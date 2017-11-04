@@ -12,3 +12,17 @@ $ git add .
 Commit - 
 $ git commit -m "my first proj-anix"
 
+create a new branch and then 'check you out' on it, meaning git will move you to that branch, off of the master branch -
+$ git checkout -b <my branch name>
+
+Shows an asterisk which branch you are pointed at -
+$git branch
+
+Use merge???
+$git merge???
+
+
+
+
+
+
