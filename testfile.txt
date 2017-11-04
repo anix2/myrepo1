@@ -39,6 +39,9 @@ Merge a PR - Merge pull request
 
 
 Get changes on GitHub back to your computer
+get the most recent changes that you or others have merged on GitHub
+$git pull origin master
+
 
 
 
