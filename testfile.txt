@@ -1,0 +1,14 @@
+$ git init
+
+Create a new file-
+$ touch testfile.txt
+
+Check Status -
+$ git status
+
+Add to staging for commit - 
+$ git add .
+
+Commit - 
+$ git commit -m "my first proj-anix"
+
