@@ -31,8 +31,14 @@ $ git remote add origin https://github.com/anix2/myrepo1.git
 $ git push -u origin master
 
 Push a branch to GitHub -
-$git push origin yourbranchname
+$git push origin mynewbranch
 
+
+Create a Pull Request (PR) - a way to alert a repo's owners that you want to make some changes to their code.
+Merge a PR - Merge pull request
+
+
+Get changes on GitHub back to your computer
 
 
 
