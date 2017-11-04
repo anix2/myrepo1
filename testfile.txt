@@ -44,5 +44,8 @@ $git pull origin master
 
 
 
+Switch branches back to the master branch
+$git checkout master
+
 
 
