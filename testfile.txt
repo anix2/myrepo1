@@ -1,3 +1,5 @@
+Create a local git repository
+Create a directory first and initialise -
 $ git init
 
 Create a new file-
@@ -21,6 +23,15 @@ $git branch
 Use merge???
 $git merge???
 
+
+Create a new repository on GitHub
+push an existing repository from the command line -
+$ git remote add origin https://github.com/anix2/myrepo1.git
+
+$ git push -u origin master
+
+Push a branch to GitHub -
+$git push origin yourbranchname
 
 
 
